@@ -7,6 +7,13 @@ display: flex;
   margin: 4% 0%;
   height: 90vh;
 }
+.bighero_text{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50vw;
+}
 .BigHero_img img{
   height: 90vh; 
 }
